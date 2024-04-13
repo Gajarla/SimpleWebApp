@@ -63,15 +63,15 @@ section{
      background-color: #ED6663;
 }
 
-#product{
+#Sunil{
      background-color: #B52B65;
 }
 
-#pricing{
+#gajarla{
      background-color: #3C2C3E;
 }
 
-#contact{
+#sailo{
      background-color: #B52B65;
 }
 
@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> **** Laptop & Mobile 90% Off available till 31st March 2025 **** </h1>   
+         <h1> **** Kaju &  Kismiss 90% Off available till 31st March 2025 **** </h1>   
 	 
 
     </section>    
